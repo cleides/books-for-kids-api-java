@@ -1,2 +1,2 @@
-# Stock Book Manager API
+# Books for kids API
 
